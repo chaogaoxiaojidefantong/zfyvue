@@ -26,6 +26,6 @@ module.exports = {
   devServer: {
     // proxy: 'localhost:3000'
     disableHostCheck: true,
-    port: 9091
+    port: 10003
   }
 };

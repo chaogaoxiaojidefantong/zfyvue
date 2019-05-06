@@ -1,5 +1,5 @@
 {
-  "name": "front",
+  "name": "stydyplatform",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.8.2",
     "iview": "^3.4.1",
     "js-cookie": "^2.2.0",
     "vue": "^2.6.10",
