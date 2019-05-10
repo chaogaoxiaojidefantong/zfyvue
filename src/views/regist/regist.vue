@@ -83,7 +83,7 @@ export default {
 </script>
 <style lang="less">
  .regist{
-    background-image: url('../../assets/2.png');
+    background-image: url('../../assets/2.jpg');
     width: 100%;
     height: 100%;
  }
